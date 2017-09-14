@@ -1,0 +1,6 @@
+B is base of map
+L is bridge which will open after standing vertically on switch
+E are empty cells
+S is the switch
+F is fragile
+W is win hole , on which player will win if stands vetically

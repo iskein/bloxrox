@@ -1,15 +1,15 @@
 
-					---------------------------------------
-					---------------------------------------
-					---------------------------------------
-					-----------								-------------
-					-----------								-------------
-					-----------		 	 BOX			-------------
-					-----------								-------------
-					-----------								-------------
-					---------------------------------------
-					---------------------------------------
-					---------------------------------------
+			---------------------------------------
+			---------------------------------------
+			---------------------------------------
+			-----------		---------------
+			-----------		---------------
+			-----------	 BOX	---------------
+			-----------		---------------
+			-----------		---------------
+			---------------------------------------
+			---------------------------------------
+			---------------------------------------
 
 
 The aim of this game is to control the block and make it fall
@@ -18,16 +18,16 @@ of three stages and you need to complete the game in minimum
 number of moves. 
 
 
-Move the block forward - 			'w', 'W'
+Move the block forward - 		'w', 'W'
 Move the block backward - 		'b', 'B'
-Move the block right - 				'd', 'D'
-Move the block left - 				'a', 'A'
+Move the block right - 			'd', 'D'
+Move the block left - 			'a', 'A'
 
 Birdeye view of the map - 		'b', 'B'
-Tower View of the map - 			't', 'T'
-Follow cam view - 						'f', 'F'
-Object cam view - 						'o', 'O'
-Quit game - 									'q', 'Q'
+Tower View of the map - 		't', 'T'
+Follow cam view - 			'f', 'F'
+Object cam view - 			'o', 'O'
+Quit game - 				'q', 'Q'
 zoomin, zoomout - mouse scroll
 Helicopter view of the map - control by dragging mouse clicking left mouse button
 
